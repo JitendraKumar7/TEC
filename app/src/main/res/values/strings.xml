@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TEC</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaWt1bWFyaml0ZW5kcmE3IiwiYSI6ImNqb2R6OGgybTFqZzIzdm53dTlyeDJtaTcifQ.SUADYKElhXoZz0OzGfjbXg</string>
+</resources>
